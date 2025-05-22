@@ -1,0 +1,30 @@
+[04:08:34] Launching driver...
+[04:08:34] Navigating to https://www.monkeytype.com
+[04:08:34] Declined cookies
+[04:08:34] Waiting for words to load...
+[04:08:36] Initial words loaded
+[04:08:36] Initial active word: "time"
+[04:08:36] Initial word list: ["time", "early", "ask", "off", "man", "while", "since", "of", "large", "present", "order", "work", "about", "show", "still", "world", "on", "time", "find", "present", "stand", "because", "large", "present", "in", "would", "find", "out", "small", "present", "child", "keep", "might", "system", "nation", "number", "most", "she", "under", "also", "end", "use", "any", "call", "part", "small", "problem", "during", "around", "be", "only", "ask", "down", "around", "tell", "then", "now", "that", "through", "they", "up", "on", "as", "such", "when", "help", "even", "program", "end", "should", "so", "those", "how", "both", "real", "since", "increase", "it", "school", "each", "any", "year", "could", "point", "never", "out", "even", "mean", "become", "eye", "while", "end", "such", "should", "so", "first", "consider", "no", "fact", "for"]
+[04:08:36] Switched to words mode
+[04:08:36] Clicked word count: 25
+[04:08:36] New words loaded
+[04:08:36] New active word: "child"
+[04:08:36] New word list: ["child", "about", "great", "public", "no", "part", "on", "than", "after", "but", "small", "the", "nation", "way", "think", "place", "there", "and", "these", "then", "think", "use", "form", "give", "out", "still", "for", "nation", "with", "she", "make", "at", "run", "where", "some", "thing", "back", "see", "could", "too", "we", "without", "would", "while", "possible", "open", "up", "people", "when", "leave"]
+[04:08:36] Active mode: 50
+[04:08:36] Word count: 50
+[04:08:36] Switching to punctuation mode
+[04:08:37] Switched to punctuation mode
+[04:08:37] Waiting for words to load...
+[04:08:37] Punctuation mode words loaded
+[04:08:37] Active word: "Look"
+[04:08:37] Word list: ["Look", "like,", "those", "same", "head,", "no", "of", "thing!", "Over", "person", "if,", "after", "high.", "Fact", "way", "large", "we'll", "would,", "they", "hand", "consider", "this", "form,", "problem", "'program'", "all", "about.", "Around", "large", "like", "child", "hold", "on", "long", "well.", "Ask", "these", "be", "know", "point,", "develop", "order", "hand.", "With", "would:", "now", "even", "(look)", "from", "before."]
+[04:08:37] Active mode: 50
+[04:08:37] Word count: 50
+[04:08:37] Switching to word count: 10
+[04:08:37] Clicked word count: 10
+[04:08:38] Waiting for words to load...
+[04:08:38] New active word: "Like"
+[04:08:38] Word list: ["Like", "eye", "mean", "see", "consider", "have", "public", "large", "however", "plan."]
+[04:08:38] Active mode: 10
+[04:08:38] Word count: 10
+[04:08:38] Finished testing [end of script]
